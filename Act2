@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html> <head>
+<title>MY Web Page</title>
+<link rel="stylesheets" type="text/css" href="css/bootstrap.css">
+</head> <body>
+<div class="column-sm-3"  style="border:solid 1px blue";>
+<h2> Learning to Code </h2>
+
+<ul>
+<li> PHP</li>
+<li> CSS</li>  
+<li> HTML</li>
+<li> Java Script</li>
+<li> Building a Website</li>
+<li> Developing an App</li>
+
+</ul> </div>
+<div class="column-sm-9"  style="border:solid 1px blue";>
+	<h2> Learning to code takes time and preseverance </h2>
+
+	<p> The only way to learn is to roll up your sleeves and do the exercises. Eventually the penny drops and it will have all been worth it. It's such a rush </p>
+	<div>
+
+
+
